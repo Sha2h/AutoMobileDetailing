@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1048347998165",
+    "firebase_url": "https://autodetailed.firebaseio.com",
+    "project_id": "autodetailed",
+    "storage_bucket": "autodetailed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048347998165:android:e4903a2905f77bcced6f5c",
+        "android_client_info": {
+          "package_name": "com.ex.autodetailing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048347998165-ah86a2l4ooesgh6nu663v5uu6pfs8eng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdrC1YNewb_TvOrFfMgUir1-5464xq6KU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048347998165-ah86a2l4ooesgh6nu663v5uu6pfs8eng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
